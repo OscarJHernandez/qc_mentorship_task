@@ -1,5 +1,20 @@
 # qc_mentorship_task
-The first task for the QC-mentorship program
+
+#### Problem statement
+Using a variational quantum-eigensolver, determine the lowest eigenvalue of the matrix
+
+```
+[0 0 0 0; 
+0 -1 1 0;
+0 1 -1 0; 
+0 0 0 0]
+
+```
+using code written from scratch. 
+
+# About
+This code was used as the coding challenge for admission into the [Quantum open source foundations mentorship](https://qosf.org/qc_mentorship/) program for 2020.
+
 
 ``` 
 Author: Oscar Javier Hernandez
